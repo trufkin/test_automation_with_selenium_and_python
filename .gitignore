@@ -133,3 +133,6 @@ dmypy.json
 
 #executable files
 *.exe
+
+#text files
+*.txt
