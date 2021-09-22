@@ -130,3 +130,6 @@ dmypy.json
 
 # Some PyCharm things
 .idea
+
+#executable files
+*.exe
