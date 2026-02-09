@@ -17,3 +17,5 @@ try:
 finally:
     time.sleep(5)
     browser.quit()
+
+print(*[name for name in dir(EC) if not name.startswith("_")], sep="\n")
